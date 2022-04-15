@@ -18,4 +18,4 @@
 
 ### 2022
 
-- [MySQL for E-Commerce - PHP UG Darmstadt 2022](https://github.com/thomasbley/talks/blob/master/MySQL_for_Ecommerce_phpug_darmstadt_2022_ThomasBley.pdf)
+- [MySQL for E-Commerce - PHP UG Darmstadt](https://github.com/thomasbley/talks/blob/master/MySQL_for_Ecommerce_phpug_darmstadt_2022_ThomasBley.pdf)

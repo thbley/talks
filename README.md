@@ -21,3 +21,7 @@
 - [MySQL for E-Commerce - PHP UG Darmstadt](https://github.com/thomasbley/talks/blob/master/MySQL_for_Ecommerce_phpug_darmstadt_2022_ThomasBley.pdf)
 
 - [MySQL for E-Commerce - PHP UG Berlin](https://github.com/thomasbley/talks/blob/master/MySQL_for_Ecommerce_phpug_berlin_2022_ThomasBley.pdf)
+
+### 2023
+
+- [MySQL for E-Commerce - IPC](https://github.com/thomasbley/talks/blob/master/MySQL_for_Ecommerce_ipc_2023_ThomasBley.pdf)
